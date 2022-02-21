@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hcl JD ck Get</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">打开京东页面</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">点击下面的\"打开京东页面\"打开web页面，直接登录即可抓取cookie并推送到hcl的服务器</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
